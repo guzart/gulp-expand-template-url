@@ -1,0 +1,30 @@
+{
+  "name": "gulp-expand-template-url",
+  "version": "0.0.1",
+  "description": "Expand the template url of your angular templates",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guzart/gulp-expand-template-url.git"
+  },
+  "keywords": [
+    "gulp-plugin",
+    "angularjs",
+    "replace",
+    "expand",
+    "templates",
+    "template-url",
+    "templateUrl"
+  ],
+  "author": "Arturo Guzman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guzart/gulp-expand-template-url/issues"
+  },
+  "homepage": "https://github.com/guzart/gulp-expand-template-url",
+  "dependencies": {
+    "through2": "^0.4.1",
+    "lodash": "^2.4.1",
+    "gulp-util": "^2.2.14"
+  }
+}
